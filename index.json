@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "packages": [
+        {
+            "Id": "Microsoft.GlobalSecureAccessClient",
+            "Version": "2.1.149",
+            "Name": "Global Secure Access Client",
+            "Publisher": "Microsoft",
+            "InstallerType": "exe",
+            "Url": "https://download.msappproxy.net/Subscription/b8795d5c-2a52-4259-9dc9-bff6eb3e15d7/Connector/GlobalSecureAccessClientInstaller",
+            "Sha256": "66583F3839F0908133992791CE284BF39F21E4BA1A279437E9E82F91583834FE",
+            "ManifestPath": "manifests/m/Microsoft/GlobalSecureAccessClient/2.1.149/Microsoft.GlobalSecureAccessClient.installer.yaml"
+        },
+        {
+            "Id": "MAXQDA.MAXQDA",
+            "Version": "24.5.1",
+            "Name": "MAXQDA",
+            "Publisher": "MAXQDA",
+            "InstallerType": "msi",
+            "Url": "https://www.maxqda.de/updates/24/MAXQDA24_Setup.msi",
+            "Sha256": "2B2DB98385335DD0B63A6AA4FDEF2AE13BE4FECFD1444A5365AEB0EAD6427305",
+            "ManifestPath": "manifests/m/MAXQDA/MAXQDA/24.5.1/MAXQDA.MAXQDA.installer.yaml"
+        },
+        {
+            "Id": "MAXQDA.MAXQDAReader",
+            "Version": "24.1.0",
+            "Name": "MAXQDA Reader",
+            "Publisher": "MAXQDA",
+            "InstallerType": "msi",
+            "Url": "https://updates.maxqda.de/24/MAXQDA24_Reader_Setup.msi",
+            "Sha256": "E902283B12EA23A0F91D3F915AD187A92A1D64C8A3F1B45E6B8030E86CC1384E",
+            "ManifestPath": "manifests/m/MAXQDA/MAXQDAReader/24.1.0/MAXQDA.MAXQDAReader.installer.yaml"
+        }
+    ]
+}
